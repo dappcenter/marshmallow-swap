@@ -79,8 +79,8 @@
     "start-server-and-test": "^1.11.0"
   },
   "resolutions": {
-    "@walletconnect/web3-provider": "1.1.1-alpha.0",
-    "cypresss": "1.2.3"
+    "@walletconnect/web3-provider": "1.1.1-alpha.0"
+    
   },
   "scripts": {
     "start": "react-scripts start",
