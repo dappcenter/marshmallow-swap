@@ -18,6 +18,13 @@
       "decimals": 18
     },
     {
+      "name": "Tofy Token",
+      "symbol": "TOFY",
+      "address": "0xe1f2d89a6c79b4242f300f880e490a70083e9a1c",
+      "chainId": 56, 
+      "decimals": 18
+    },
+    {
       "name": "Goose Golden Egg",
       "symbol": "EGG",
       "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
