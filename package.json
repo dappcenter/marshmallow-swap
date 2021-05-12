@@ -71,7 +71,7 @@
     "@pancakeswap-libs/eslint-config-pancake": "1.0.0",
     "@types/jest": "^26.0.20",
     "@types/testing-library__cypress": "^5.0.8",
-    
+    "cypress": "^4.11.0",
     "eslint": "^7.2.0",
     "prettier": "^2.1.2",
     "qs": "^6.9.4",
@@ -79,8 +79,8 @@
     "start-server-and-test": "^1.11.0"
   },
   "resolutions": {
-    "@walletconnect/web3-provider": "1.1.1-alpha.0"
-    
+    "@walletconnect/web3-provider": "1.1.1-alpha.0",
+    "cypresss": "1.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -88,7 +88,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
-    "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix"
+    "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
 
   },
   "browserslist": {
